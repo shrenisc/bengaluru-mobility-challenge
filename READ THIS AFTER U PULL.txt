@@ -1,0 +1,7 @@
+create venv : python -m venv ml_env
+activate venv : ml_env\Scripts\activate
+install packages : pip install -r req.txt
+type 'labelImg' in terminal and click enter
+you shud see a seperate labelImg screen open up
+
+call me

@@ -1,0 +1,4 @@
+labelImg
+setuptools
+pyqt5
+ultralytics
